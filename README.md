@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hi humans!
+
+I just testing this repository app
